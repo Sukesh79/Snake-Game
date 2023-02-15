@@ -1,2 +1,2 @@
 # Snake-Game
-java swing based snake game
+java swing based gui snake game
